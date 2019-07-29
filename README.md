@@ -4,3 +4,4 @@ Projects include 3 small projects which can be used to showcase the react work a
 * React-Friends - showing the name and work of the friends
 * City-Tours - A tour app to remove the city you don't want to go and select the last one.
 * React-Book -  A react project to show the best selling books on web having option to delete and show info too. 
+* Recipe - A recipe search api food2fork which intakes the data from api and shows the result of the searched food recipe.
